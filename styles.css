@@ -1,0 +1,13 @@
+:root{
+--cor-de-fundo: orange;
+_--cor-cabecalho: #FFFFFF;
+}
+
+body{
+background-color: var(--cor-de-fundo);
+margin: 0;
+}
+
+h1{
+    font-weight: normal;
+}
